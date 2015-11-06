@@ -70,8 +70,8 @@
 						</select>
 					<br>
 								
-					<label for="oldalszam">Oldalszám:</label>
-						<input type="text" name="oldalszam" placeholder="Oldalszám" value="<?php ?>"><br>
+					<label for="lap_vagy_level">Lap vagy levél:</label>
+						<input type="text" name="lap_vagy_level" placeholder="Lap vagy levél" value="<?php ?>"><br>
 						
 					<label for="modern_kiadas">Modern kiadás:</label>
 						<input type="text" name="modern_kiadas" placeholder="Modern kiadás" value="<?php ?>"> <br>
