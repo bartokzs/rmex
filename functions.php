@@ -366,8 +366,8 @@
 							"<div class='res_1_left'><span class='res_cat'>Forráskódex: 
 								</span>" . $row['forraskodex'] . "</div>" .
 								
-							"<div class='res_1_left'><span class='res_cat'>Oldalszám: 
-								</span>" . $row['oldalszam'] . "</div>" .
+							"<div class='res_1_left'><span class='res_cat'>Lap vagy levél: 
+								</span>" . $row['lap_vagy_level'] . "</div>" .
 								
 							"<div id='res_1_right'><span class='res_cat'>Kontextus: 
 								</span>" . $row['kontextus'] . "</div>" .
